@@ -1,0 +1,57 @@
+/* ==========================================================================
+   CSS personalizado
+   ========================================================================== */
+body {
+	padding-top: 30px;
+	padding-bottom: 40px;
+	background-color: #d9edf7;
+	font-size: 12px;
+}
+
+p {
+	color: black;
+	text-align: justify;
+}
+
+.hero {
+	width: auto;
+	background-image: url(../img/header.jpg);
+}
+
+.hero-unit header {
+	margin-top: 0;
+	padding-top: 0;
+	color: #000000;
+}
+
+.hero-unit p {
+	text-align: justify;
+	color: #000000;
+}
+
+.subtitulo {
+	color: #31708F;
+	text-align: left;
+	font-family: "calibri", "verdana", "sans-serif";
+	font-style: inherit;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.span3 h2 {
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	line-height: 1;
+	color: inherit;
+	letter-spacing: -1px;
+}
+
+.principal {
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+address {
+	display: inline;
+}
