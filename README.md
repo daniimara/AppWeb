@@ -1,4 +1,4 @@
 # Currículo / Resume
 
-[Currículo Online](http://daniimara.github.io/AppWeb/)
+[Currículo Online](http://daniimara.github.io/Resume/)
 
